@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -76,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
