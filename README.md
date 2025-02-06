@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -125,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
