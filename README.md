@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Enumeration
 |  |
 | ------- |
