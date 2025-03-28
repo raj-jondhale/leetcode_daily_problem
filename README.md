@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1876-map-of-highest-peak) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3430-count-days-without-meetings) |
@@ -201,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Enumeration
 |  |
