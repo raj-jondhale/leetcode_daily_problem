@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
