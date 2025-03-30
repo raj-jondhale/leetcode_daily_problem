@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
+| [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [2509-minimize-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2509-minimize-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
+| [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
