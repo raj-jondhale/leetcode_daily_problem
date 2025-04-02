@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
