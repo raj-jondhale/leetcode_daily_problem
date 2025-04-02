@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2648-number-of-ways-to-earn-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2648-number-of-ways-to-earn-points) |
 | [2665-minimum-time-to-repair-cars](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1497-design-a-stack-with-increment-operation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2648-number-of-ways-to-earn-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2648-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
