@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0416-partition-equal-subset-sum) |
 | [2648-number-of-ways-to-earn-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2648-number-of-ways-to-earn-points) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
 | ------- |
