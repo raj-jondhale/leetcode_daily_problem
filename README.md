@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
+| [1500-count-largest-group](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
