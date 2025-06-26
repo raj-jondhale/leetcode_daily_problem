@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0416-partition-equal-subset-sum) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2648-number-of-ways-to-earn-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2648-number-of-ways-to-earn-points) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
