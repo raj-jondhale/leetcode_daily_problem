@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
