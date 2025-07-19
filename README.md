@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [2793-count-the-number-of-complete-components](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
