@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
