@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2478-longest-nice-subarray) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2649-count-total-number-of-colored-cells) |
