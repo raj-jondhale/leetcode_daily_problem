@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3430-count-days-without-meetings) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3483-alternating-groups-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Stack
