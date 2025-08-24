@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1656-count-good-triplets) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
