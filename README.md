@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
