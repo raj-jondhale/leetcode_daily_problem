@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
