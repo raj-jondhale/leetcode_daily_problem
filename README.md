@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
