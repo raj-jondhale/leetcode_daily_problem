@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
