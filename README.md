@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1448-maximum-69-number) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
