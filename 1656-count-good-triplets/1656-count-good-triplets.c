@@ -1,15 +1,21 @@
+int absDiff(int x, int y) {
+    return x > y ? x - y : y - x;
+}
 
-int countGoodTriplets(int* arr, int arrSize, int a, int b, int c) {
-    int x = 0, i, j, k;
-    for (i = 0; i < arrSize - 2;i++) { 
-        for (j = i + 1; j < arrSize - 1;j++) {  
-            for (k = j + 1; k < arrSize;k++) { 
-                if ((abs(arr[i] - arr[j])) <= a &&
-                    (abs(arr[j] - arr[k])) <= b &&
-                    (abs(arr[i] - arr[k])) <=c) 
-                    x++;
+int countGoodTriplets(int* arr, int arrSize, int a, int b, int c){
+    int count = 0;
+
+    for (int i = 0; i < arrSize - 2; i++) {
+        for (int j = i + 1; j < arrSize - 1; j++) {
+            if (absDiff(arr[i], arr[j]) <= a) { // first condition
+                for (int k = j + 1; k < arrSize; k++) {
+                    if (absDiff(arr[j], arr[k]) <= b && absDiff(arr[i], arr[k]) <= c) {
+                        count++;
+                    }
+                }
             }
         }
     }
-    return x;
+
+    return count;
 }
