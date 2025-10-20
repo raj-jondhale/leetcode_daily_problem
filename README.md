@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0342-power-of-four) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
+| [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
