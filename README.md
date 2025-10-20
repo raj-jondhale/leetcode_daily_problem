@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0168-excel-sheet-column-title) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
