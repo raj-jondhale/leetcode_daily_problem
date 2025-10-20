@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3104-happy-students](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3104-happy-students) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3104-happy-students](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3104-happy-students) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3104-happy-students](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3104-happy-students) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
