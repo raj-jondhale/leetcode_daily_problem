@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1372-check-if-it-is-a-good-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
+| [1372-check-if-it-is-a-good-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1543-simplified-fractions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
