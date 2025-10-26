@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2360-substring-with-largest-variance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2360-substring-with-largest-variance) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2429-design-a-food-rating-system) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2360-substring-with-largest-variance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2360-substring-with-largest-variance) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2648-number-of-ways-to-earn-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2648-number-of-ways-to-earn-points) |
