@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1543-simplified-fractions](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1543-simplified-fractions) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1500-count-largest-group) |
 | [1543-simplified-fractions](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1543-simplified-fractions) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
