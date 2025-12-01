@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
