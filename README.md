@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0342-power-of-four) |
