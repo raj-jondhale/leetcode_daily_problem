@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1524-string-matching-in-an-array) |
 ## Counting
 |  |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
