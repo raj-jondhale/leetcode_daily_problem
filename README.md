@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3104-happy-students](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3104-happy-students) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3104-happy-students](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3104-happy-students) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
