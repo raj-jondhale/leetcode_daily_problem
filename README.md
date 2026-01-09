@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0940-fruit-into-baskets) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1396-count-servers-that-communicate) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -765,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
