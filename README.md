@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1021-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0120-triangle) |
