@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1266-minimum-time-visiting-all-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1372-check-if-it-is-a-good-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
