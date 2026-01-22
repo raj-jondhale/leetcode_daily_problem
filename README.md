@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2681-put-marbles-in-bags) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3678-design-task-manager) |
 ## Matrix
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -825,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3791-fruits-into-baskets-iii) |
@@ -845,4 +851,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3462-vowels-game-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
