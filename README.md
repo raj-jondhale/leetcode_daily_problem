@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1200-minimum-absolute-difference](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
+| [1200-minimum-absolute-difference](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
