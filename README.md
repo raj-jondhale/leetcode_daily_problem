@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2681-put-marbles-in-bags) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -864,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
