@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0168-excel-sheet-column-title) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1642-water-bottles) |
