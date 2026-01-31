@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0830-largest-triangle-area) |
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
