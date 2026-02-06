@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3531-count-covered-buildings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
