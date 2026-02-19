@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0168-excel-sheet-column-title) |
 | [0474-ones-and-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0564-find-the-closest-palindrome) |
+| [0696-count-binary-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0944-delete-columns-to-make-sorted) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
