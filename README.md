@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2308-divide-array-into-equal-pairs) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
 | [0564-find-the-closest-palindrome](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0867-new-21-game) |
