@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3583-count-special-triplets) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3546-equal-sum-grid-partition-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3618-find-the-original-typed-string-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3546-equal-sum-grid-partition-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3748-sort-matrix-by-diagonals) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3546-equal-sum-grid-partition-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Stack
