@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3678-design-task-manager) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3797-design-spreadsheet) |
