@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2465-shifting-letters-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2887-sort-vowels-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3243-count-the-number-of-powerful-integers) |
