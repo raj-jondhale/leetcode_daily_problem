@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1656-count-good-triplets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
