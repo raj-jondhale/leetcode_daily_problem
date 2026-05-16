@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0217-contains-duplicate) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
