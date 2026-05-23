@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1656-count-good-triplets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1848-minimum-distance-to-the-target-element) |
