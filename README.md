@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
