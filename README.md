@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2107-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1917-maximum-average-pass-ratio) |
+| [2126-destroying-asteroids](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
