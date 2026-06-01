@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0120-triangle) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
