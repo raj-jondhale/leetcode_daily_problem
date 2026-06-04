@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0416-partition-equal-subset-sum) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0868-binary-gap) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
