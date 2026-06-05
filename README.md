@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0326-power-of-three) |
