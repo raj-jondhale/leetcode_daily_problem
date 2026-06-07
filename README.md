@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0169-majority-element) |
@@ -1004,4 +1006,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
