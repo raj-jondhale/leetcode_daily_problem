@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2540-minimum-common-value) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
