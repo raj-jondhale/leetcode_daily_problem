@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0056-merge-intervals) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0141-linked-list-cycle) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1021-remove-outermost-parentheses) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
@@ -909,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0085-maximal-rectangle) |
