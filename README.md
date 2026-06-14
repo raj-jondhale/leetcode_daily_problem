@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0768-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2751-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3001-apply-operations-to-maximize-score) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
