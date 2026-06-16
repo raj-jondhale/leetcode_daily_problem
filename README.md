@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
