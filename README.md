@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1917-maximum-average-pass-ratio) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1833-maximum-ice-cream-bars](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1072,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
