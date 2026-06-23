@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0657-robot-return-to-origin) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0231-power-of-two) |
