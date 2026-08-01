@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0679-24-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0867-new-21-game) |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Function
@@ -1075,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/raj-jondhale/leetcode_daily_problem/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
